@@ -1,7 +1,7 @@
 name: Brian McShane Music
 favicon: null
 layout_spectrum: 0.20653340802527964
-typography_spectrum: 0.58686
+typography_spectrum: 0.28425
 cta:
   domain: null
   bucket: null
@@ -16,11 +16,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#080808'
-    - '#efebea'
-    - '#aaa387'
-    - '#7c322f'
-    - '#816945'
+    - '#cfffff'
+    - '#a19690'
+    - '#2d2d2d'
+    - '#7e6160'
+    - '#1c58aa'
   brandStrength: 0.0589711875654757
   lightness: 0.5
   saturation: 0.5
